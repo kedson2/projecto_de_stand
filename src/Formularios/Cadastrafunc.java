@@ -438,7 +438,7 @@ public class Cadastrafunc extends javax.swing.JInternalFrame {
     }//GEN-LAST:event_txtnumerdocumKeyTyped
 
     private void txtnomeKeyReleased(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_txtnomeKeyReleased
-
+        System.out.println();
     }//GEN-LAST:event_txtnomeKeyReleased
 
     private void txtmoradaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtmoradaActionPerformed
